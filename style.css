@@ -121,14 +121,14 @@ nav ul li a:hover::after{
 }
 .about-col-2 p span{
     color: #f0004c;
-    font-size: 18px;
+    font-size: 15px;
     font-style: italic;
     margin-top: 100px;
     font-weight: 900;
 }
 .about-col-2 p{
-    margin-top: 10px;
-    font-size: 18px;
+    margin-top: 5px;
+    font-size: 15px;
     color: #ffffff;
 }
 .tab-titles{
@@ -158,11 +158,11 @@ nav ul li a:hover::after{
 }
 .tab-contents ul li span{
     color: #ff004f;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 800;
 }
 .tab-contents ul li{
-    font-size: 17px;
+    font-size: 14px;
     margin-left: 20px;
     font-style: italic;
     color: aliceblue;
